@@ -20,3 +20,4 @@ C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\o
 C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.csproj.CoreCompileInputs.cache
 C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.exe
 C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.pdb
+C:\Users\cas-p\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form3.resources

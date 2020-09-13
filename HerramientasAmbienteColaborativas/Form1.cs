@@ -17,12 +17,7 @@ namespace HerramientasAmbienteColaborativas
             InitializeComponent();
         }
 
-        private void btnSiguiente_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            form2 = new Form2();
-            form2.Show();
-        }
+        
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
@@ -30,6 +25,14 @@ namespace HerramientasAmbienteColaborativas
             btnIniciar.Visible = false;
             pbCaratula.ImageLocation = "https://github.com/AntonioFarfan/FinalProyecto/blob/master/HerramientasAmbienteColaborativas/Caratula/CaratulaPrincipal.png?raw=true";
             btnSiguiente.Visible = true;
+        }
+
+        private void btnSiguiente_Click(object sender, EventArgs e)
+        {
+
+            Form2 form2 = new Form2();
+            form2 = new Form2();
+            form2.Show();
         }
     }
 }
