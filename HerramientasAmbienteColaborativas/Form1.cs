@@ -23,5 +23,13 @@ namespace HerramientasAmbienteColaborativas
             form2 = new Form2();
             form2.Show();
         }
+
+        private void btnIniciar_Click(object sender, EventArgs e)
+        {
+            pbCaratula.Visible = true;
+            btnIniciar.Visible = false;
+            pbCaratula.ImageLocation = "https://github.com/AntonioFarfan/FinalProyecto/blob/master/HerramientasAmbienteColaborativas/Caratula/CaratulaPrincipal.png?raw=true";
+            btnSiguiente.Visible = true;
+        }
     }
 }
