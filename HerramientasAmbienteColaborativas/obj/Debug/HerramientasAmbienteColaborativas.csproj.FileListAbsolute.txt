@@ -22,3 +22,15 @@ C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\o
 C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.pdb
 C:\Users\cas-p\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form3.resources
 C:\Users\Fernando\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form3.resources
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\bin\Debug\HerramientasAmbienteColaborativas.exe.config
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\bin\Debug\HerramientasAmbienteColaborativas.exe
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\bin\Debug\HerramientasAmbienteColaborativas.pdb
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form1.resources
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form2.resources
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Form3.resources
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.exe
+C:\Users\Usuario\Source\Repos\FinalProyecto\HerramientasAmbienteColaborativas\obj\Debug\HerramientasAmbienteColaborativas.pdb

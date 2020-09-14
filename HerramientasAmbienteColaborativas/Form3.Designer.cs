@@ -45,7 +45,8 @@
             // 
             // btnConductor
             // 
-            this.btnConductor.Location = new System.Drawing.Point(370, 92);
+            this.btnConductor.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConductor.Location = new System.Drawing.Point(363, 62);
             this.btnConductor.Name = "btnConductor";
             this.btnConductor.Size = new System.Drawing.Size(75, 23);
             this.btnConductor.TabIndex = 24;
@@ -56,15 +57,17 @@
             // lblConductor
             // 
             this.lblConductor.AutoSize = true;
-            this.lblConductor.Location = new System.Drawing.Point(343, 55);
+            this.lblConductor.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblConductor.Location = new System.Drawing.Point(336, 25);
             this.lblConductor.Name = "lblConductor";
-            this.lblConductor.Size = new System.Drawing.Size(59, 13);
+            this.lblConductor.Size = new System.Drawing.Size(69, 14);
             this.lblConductor.TabIndex = 22;
             this.lblConductor.Text = "Conductor:";
             // 
             // btnPlaca
             // 
-            this.btnPlaca.Location = new System.Drawing.Point(370, 92);
+            this.btnPlaca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPlaca.Location = new System.Drawing.Point(363, 62);
             this.btnPlaca.Name = "btnPlaca";
             this.btnPlaca.Size = new System.Drawing.Size(75, 23);
             this.btnPlaca.TabIndex = 21;
@@ -75,15 +78,17 @@
             // lblPlaca
             // 
             this.lblPlaca.AutoSize = true;
-            this.lblPlaca.Location = new System.Drawing.Point(343, 55);
+            this.lblPlaca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlaca.Location = new System.Drawing.Point(336, 25);
             this.lblPlaca.Name = "lblPlaca";
-            this.lblPlaca.Size = new System.Drawing.Size(37, 13);
+            this.lblPlaca.Size = new System.Drawing.Size(40, 14);
             this.lblPlaca.TabIndex = 19;
             this.lblPlaca.Text = "Placa:";
             // 
             // btnMarca
             // 
-            this.btnMarca.Location = new System.Drawing.Point(370, 92);
+            this.btnMarca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMarca.Location = new System.Drawing.Point(363, 62);
             this.btnMarca.Name = "btnMarca";
             this.btnMarca.Size = new System.Drawing.Size(75, 23);
             this.btnMarca.TabIndex = 18;
@@ -93,24 +98,26 @@
             // 
             // txtMarca
             // 
-            this.txtMarca.Location = new System.Drawing.Point(414, 55);
+            this.txtMarca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMarca.Location = new System.Drawing.Point(407, 25);
             this.txtMarca.Name = "txtMarca";
-            this.txtMarca.Size = new System.Drawing.Size(100, 20);
+            this.txtMarca.Size = new System.Drawing.Size(100, 22);
             this.txtMarca.TabIndex = 17;
             // 
             // lblMarca
             // 
             this.lblMarca.AutoSize = true;
-            this.lblMarca.Location = new System.Drawing.Point(343, 55);
+            this.lblMarca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMarca.Location = new System.Drawing.Point(336, 25);
             this.lblMarca.Name = "lblMarca";
-            this.lblMarca.Size = new System.Drawing.Size(40, 13);
+            this.lblMarca.Size = new System.Drawing.Size(45, 14);
             this.lblMarca.TabIndex = 16;
             this.lblMarca.Text = "Marca:";
             // 
             // dgvAutomoviles
             // 
             this.dgvAutomoviles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAutomoviles.Location = new System.Drawing.Point(84, 121);
+            this.dgvAutomoviles.Location = new System.Drawing.Point(47, 123);
             this.dgvAutomoviles.Name = "dgvAutomoviles";
             this.dgvAutomoviles.Size = new System.Drawing.Size(637, 171);
             this.dgvAutomoviles.TabIndex = 15;
@@ -118,46 +125,50 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(81, 58);
+            this.label1.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(74, 28);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(45, 13);
+            this.label1.Size = new System.Drawing.Size(53, 14);
             this.label1.TabIndex = 14;
             this.label1.Text = "Mostrar:";
             // 
             // cmbMostrar
             // 
             this.cmbMostrar.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbMostrar.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbMostrar.FormattingEnabled = true;
             this.cmbMostrar.Items.AddRange(new object[] {
             "Todos los automoviles",
             "Segun marca",
             "Segun placa",
             "Segun dueño"});
-            this.cmbMostrar.Location = new System.Drawing.Point(130, 50);
+            this.cmbMostrar.Location = new System.Drawing.Point(133, 25);
             this.cmbMostrar.Name = "cmbMostrar";
-            this.cmbMostrar.Size = new System.Drawing.Size(121, 21);
+            this.cmbMostrar.Size = new System.Drawing.Size(121, 22);
             this.cmbMostrar.TabIndex = 13;
             this.cmbMostrar.SelectedIndexChanged += new System.EventHandler(this.cmbMostrar_SelectedIndexChanged);
             // 
             // txtConductor
             // 
-            this.txtConductor.Location = new System.Drawing.Point(414, 55);
+            this.txtConductor.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtConductor.Location = new System.Drawing.Point(407, 25);
             this.txtConductor.Name = "txtConductor";
-            this.txtConductor.Size = new System.Drawing.Size(100, 20);
+            this.txtConductor.Size = new System.Drawing.Size(100, 22);
             this.txtConductor.TabIndex = 23;
             // 
             // txtPlaca
             // 
-            this.txtPlaca.Location = new System.Drawing.Point(414, 55);
+            this.txtPlaca.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPlaca.Location = new System.Drawing.Point(407, 25);
             this.txtPlaca.Name = "txtPlaca";
-            this.txtPlaca.Size = new System.Drawing.Size(100, 20);
+            this.txtPlaca.Size = new System.Drawing.Size(100, 22);
             this.txtPlaca.TabIndex = 20;
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(743, 337);
             this.Controls.Add(this.btnConductor);
             this.Controls.Add(this.txtConductor);
             this.Controls.Add(this.lblConductor);
