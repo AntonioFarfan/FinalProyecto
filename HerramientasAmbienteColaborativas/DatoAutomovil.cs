@@ -8,6 +8,7 @@ namespace HerramientasAmbienteColaborativas
 {
     public class DatoAutomovil
     {
+        //Programacion II
         public string Conductor { set; get; }
         public string Modelo { set; get; }
         public string Marca { set; get; }
