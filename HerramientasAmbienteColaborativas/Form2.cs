@@ -69,7 +69,7 @@ namespace HerramientasAmbienteColaborativas
             Form3 form3 = new Form3();
             form3 = new Form3();
             form3.Show();
-            //form3.automoviles = automoviles;
+            form3.automoviles = automoviles;
         }
     }
 }
