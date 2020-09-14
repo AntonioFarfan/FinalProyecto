@@ -47,9 +47,9 @@
             // 
             // btnMostrar
             // 
-            this.btnMostrar.Location = new System.Drawing.Point(272, 304);
+            this.btnMostrar.Location = new System.Drawing.Point(227, 304);
             this.btnMostrar.Name = "btnMostrar";
-            this.btnMostrar.Size = new System.Drawing.Size(66, 32);
+            this.btnMostrar.Size = new System.Drawing.Size(89, 20);
             this.btnMostrar.TabIndex = 34;
             this.btnMostrar.Text = "Mostrar";
             this.btnMostrar.UseVisualStyleBackColor = true;
@@ -57,9 +57,9 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(123, 304);
+            this.btnGuardar.Location = new System.Drawing.Point(97, 304);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(87, 40);
+            this.btnGuardar.Size = new System.Drawing.Size(113, 20);
             this.btnGuardar.TabIndex = 33;
             this.btnGuardar.Text = "Guardar Informacion";
             this.btnGuardar.UseVisualStyleBackColor = true;
