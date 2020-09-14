@@ -18,5 +18,42 @@ namespace HerramientasAmbienteColaborativas
         {
             datosAutomoviles.Add(datoAutomovil);
         }
+
+        public List<DatoAutomovil> SegunMarcaDada(string cadena)
+        {
+            List<DatoAutomovil> segunMarca = new List<DatoAutomovil>();
+            foreach (DatoAutomovil datoAutomovil in datosAutomoviles)
+            {
+                if (datoAutomovil.Marca.Equals(cadena))
+                {
+                    segunMarca.Add(datoAutomovil);
+                }
+            }
+            return segunMarca;
+        }
+        public List<DatoAutomovil> PlacaIniciaCadena(string cadena)
+        {
+            List<DatoAutomovil> segunPlaca = new List<DatoAutomovil>();
+            foreach (DatoAutomovil datoAutomovil in datosAutomoviles)
+            {
+                if (datoAutomovil.Placa.StartsWith(cadena))
+                {
+                    segunPlaca.Add(datoAutomovil);
+                }
+            }
+            return segunPlaca;
+        }
+        public List<DatoAutomovil> ConductorFinalCadena(string cadena)
+        {
+            List<DatoAutomovil> segunConductor = new List<DatoAutomovil>();
+            foreach (DatoAutomovil datoAutomovil in datosAutomoviles)
+            {
+                if (datoAutomovil.Conductor.EndsWith(cadena))
+                {
+                    segunConductor.Add(datoAutomovil);
+                }
+            }
+            return segunConductor;
+        }
     }
 }
